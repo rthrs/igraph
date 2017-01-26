@@ -76,12 +76,7 @@
 /tests/testsuite.dir
 /tests/testsuite.log
 
-/interfaces/python/doc/api/*
-/interfaces/python/doc/build/doctrees
-/interfaces/python/doc/build/html
-/interfaces/python/build
-/interfaces/python/dist
-/interfaces/python/python_igraph.egg-info
+/interfaces/python-igraph/
 
 /interfaces/java/build
 /interfaces/java/dist
@@ -497,3 +492,9 @@
 /www/c/doc/
 /www/python/doc/
 /www/stamp
+
+igraph-*-msvc
+**/*.o
+**/*.dirstamp
+**/*.Plo
+igraphtest/
