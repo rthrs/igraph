@@ -292,7 +292,7 @@ include_HEADERS = $(HEADERS_PUBLIC)
 MAINTAINERCLEANFILES = Makefile.in foreign-lgl-parser.h foreign-ncol-parser.h
 
 echosources:
-	$(info $(SOURCES) $(LAPACK) $(ARPACK) $(BLAS) $(libf2c_la_SOURCES) \
+	$(info $(SOURCES) $(LAPACK) $(ARPACK) $(PRPACK) $(BLAS) $(libf2c_la_SOURCES) \
 	$(libdlamch_la_SOURCES) $(libplfit_la_SOURCES))
 
 echoheaders:
