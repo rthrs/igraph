@@ -1,0 +1,3 @@
+[submodule "interfaces/python-igraph"]
+	path = interfaces/python-igraph
+	url = git@github.com:vtraag/python-igraph.git

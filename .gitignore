@@ -76,8 +76,6 @@
 /tests/testsuite.dir
 /tests/testsuite.log
 
-/interfaces/python-igraph/
-
 /interfaces/java/build
 /interfaces/java/dist
 /interfaces/java/history.xml
@@ -493,7 +491,7 @@
 /www/python/doc/
 /www/stamp
 
-igraph-*-msvc
+igraph-*-msvc*
 **/*.o
 **/*.dirstamp
 **/*.Plo
